@@ -14,4 +14,4 @@ https://d3guzman-dennis.github.io/run-buddy/
 Made with ❤️ by Dennis de Guzman
 
 
-### ©️2019 Run Buddy, Incls 
+### ©️2019 Run Buddy, Incls git 
